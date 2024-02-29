@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 Navigate to the project directory (Local):
 ```bash
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 -----
 
